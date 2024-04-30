@@ -1,1 +1,1 @@
-# Accordion
+# Accordion script writing practice
